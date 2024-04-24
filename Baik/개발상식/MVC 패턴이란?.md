@@ -36,7 +36,7 @@ View는 입력값이나 체크박스 등과 같은 사용자 인터페이스 요
 ## Controller(컨트롤러)
 Controller는 Model과 View 사이에서 데이터 흐름을 제어한다. 사용자가 접근한 URL에 따라 요청을 파악하고 URL에 적절한 Method를 호출하여 Service에서 비즈니스 로직을 처리한다. 이 후 결과를 Model에 저장하여 View에게 전달하는 역할을 수행한다. 결국 Controller는 Model과 View의 역할을 분리하는 중요한 요소이다.
 
-### Controller의 규칙
+### Controller의 규칙
 
 1. Model이나 View에 대해서 알고 있어야 한다.
 2. Model이나 View의 변경을 모니터링 해야 한다.
