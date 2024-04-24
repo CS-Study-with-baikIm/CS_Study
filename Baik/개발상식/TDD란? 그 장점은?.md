@@ -94,10 +94,10 @@ SI 프로젝트에서는 소프트웨어 품질보다는 납기일 준수가 중
 
 ### Right-BICEP
 
-- Right: 결과가 올바른지 판단할 수 있어야 한다.
+- Right: 결과가 올바른지 판단할 수 있어야한다.
 - Boundary: 모든 경계(Boundary) 조건이 일치해야 한다.
 - Inverse: 역(Inverse) 관계를 확인할 수 있어야 한다.
-- Cross-check: 다른 수단을 사용하여 결과를 교차 확인(Cross-check) 할 수 있어야한다.
+- Cross-check: 다른 수단을 사용하여 결과를 교차 확인(Cross-check) 할 수 있어야 한다.
 - Error condition: 에러 조건(Error condition)을 강제로 만들 수 있어야 한다.
 - Performance: 성능(Performance) 특성이 한도 내에 있어야 한다.
 
