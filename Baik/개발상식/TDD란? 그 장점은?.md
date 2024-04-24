@@ -8,7 +8,7 @@ TDD란 Test Driven Development의 약자로 '테스트 주도 개발'이라고 
 짧은 개발 주기의 반복에 의존하는 개발 프로세스이며, 
 애자일 방법론 중 하나인 eXtream Programming(XP)의 'Test-First' 개념에 기반을 둔 단순한 설계를 중요시한다. 
 
->  eXtream Programming(XP) : 미래에 ㄴ대한 예측을 최대한 하지 않고, 지속적으로 프로토타입을 완성하는 애자일 방법론 중 하나이다. 이 방법론은 추가 요구사항이 생기더라도, 실시간으로 반영할 수 있다.
+>  eXtream Programming(XP) : 미래에 대한 예측을 최대한 하지 않고, 지속적으로 프로토타입을 완성하는 애자일 방법론 중 하나이다. 이 방법론은 추가 요구사항이 생기더라도, 실시간으로 반영할 수 있다.
 
 ![TDD 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbxIJOW%2FbtrNRBF83uo%2FtNXUTRCyj44P8xxwdk7kx1%2Fimg.webp)   
 
@@ -97,7 +97,7 @@ SI 프로젝트에서는 소프트웨어 품질보다는 납기일 준수가 중
 - Right: 결과가 올바른지 판단할 수 있어야 한다.
 - Boundary: 모든 경계(Boundary) 조건이 일치해야 한다.
 - Inverse: 역(Inverse) 관계를 확인할 수 있어야 한다.
-- Cross-check: 다른 수단을 사용하여 결과를 교차 확인(Cross-check) 할 수 있어야 한다.
+- Cross-check: 다른 수단을 사용하여 결과를 교차 확인(Cross-check) 할 수 있어야한다.
 - Error condition: 에러 조건(Error condition)을 강제로 만들 수 있어야 한다.
 - Performance: 성능(Performance) 특성이 한도 내에 있어야 한다.
 
