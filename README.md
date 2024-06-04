@@ -1,4 +1,4 @@
-# 📘 Algorithm_Study
+# 📘 CS_Study
 본 스터디는 iOS 개발자와 Back-end 개발자 이 두명이 면접에 대비하여 CS 지식에 대한 이해도를 높히고자 개설되었습니다.
 
 
